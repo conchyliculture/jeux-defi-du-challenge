@@ -79,7 +79,12 @@ BONUS. [Sonic the Hedgehog 2](https://fr.wikipedia.org/wiki/Sonic_the_Hedgehog_2
 2. [Super Smash Land](http://www.supersmashland.com/) (Fighting / PC)
 3. [Hammered](http://www.daviddraws.co.uk/games.html) (Beat'em up / Flash)
 
-[Le défi du challenge 13 - Mehdi VS Dorian](https://www.youtube.com/watch?v=HZN6UjThBOA)
+### 30/11/2014 [Le défi du challenge 13 - Mehdi VS Dorian](https://www.youtube.com/watch?v=HZN6UjThBOA)
+
+1. [Lethal Enforcers](https://fr.wikipedia.org/wiki/Lethal_Enforcers) (Rail shooter / Arcade)
+2. [Batman](https://fr.wikipedia.org/wiki/Batman:_The_Video_Game) (Run & Gun / NES)
+
+BONUS. [Lethal League](https://fr.wikipedia.org/wiki/Lethal_League) (Fighting / PC)
 
 [Le défi du challenge 14 - CdV VS Seb](https://www.youtube.com/watch?v=WZ6PBoL2lDc)
 
