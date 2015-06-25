@@ -1,11 +1,8 @@
 # jeux-defi-du-challenge
 
-Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
+Liste des jeux utilisés dans les différents épisodes du [Défi du Challenge](http://www.nesblog.com/category/caparledejeu/defiduchallenge/).
 
 ## Épisodes
-
-[Le défi du challenge - Spécial  - Eggnogg](https://www.youtube.com/watch?v=Zvh6bkhDhEg)
-
 
 ### 04/05/2014 [Le défi du challenge 01 (Pilote) - Nico VS CdV](https://www.youtube.com/watch?v=YsyXkDORsA8)
 
