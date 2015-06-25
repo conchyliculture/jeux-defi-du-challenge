@@ -31,7 +31,11 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 2. [Rayman Legends](https://fr.wikipedia.org/wiki/Rayman_Legends)
 3. [TowerFall](https://fr.wikipedia.org/wiki/TowerFall)
 
-[Le défi du challenge 05 - Sylvain VS Rufio](https://www.youtube.com/watch?v=WbTpRAhsJlQ)
+### 27/07/2014 [Le défi du challenge 05 - Sylvain VS Rufio](https://www.youtube.com/watch?v=WbTpRAhsJlQ)
+
+1. [Hidden In Plain Sight](http://store.steampowered.com/app/303590/)
+2. [Triad](http://auntiepixelante.com/triad/)
+3. [NBA Jam Tournament Edition](https://fr.wikipedia.org/wiki/NBA_Jam:_Tournament_Edition)
 
 [Le défi du challenge 06 - Kilaye VS Naxxel](https://www.youtube.com/watch?v=URMAiJFEw2s)
 
