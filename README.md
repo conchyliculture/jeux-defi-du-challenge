@@ -19,7 +19,11 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 2. [Adventures of Lolo 2](https://fr.wikipedia.org/wiki/Adventures_of_Lolo_2)
 3. [Bubble Bobble](https://fr.wikipedia.org/wiki/Bubble_Bobble)
 
-[Le défi du challenge 03 - Realmyop VS Fred](https://www.youtube.com/watch?v=8zICy3swdoQ)
+### 01/06/2014 [Le défi du challenge 03 - Realmyop VS Fred](https://www.youtube.com/watch?v=8zICy3swdoQ)
+
+1. [Sonic the Hedgehog 2](https://fr.wikipedia.org/wiki/Sonic_the_Hedgehog_2)
+2. [Sim City])(https://fr.wikipedia.org/wiki/SimCity_%28jeu_vid%C3%A9o,_1989%29)
+3. [Blood Bros](https://fr.wikipedia.org/wiki/Blood_Bros.)
 
 [Le défi du challenge 04  - Mehdi VS Karim](https://www.youtube.com/watch?v=D1e8h6LNUE0)
 
