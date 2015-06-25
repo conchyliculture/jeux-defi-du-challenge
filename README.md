@@ -48,9 +48,14 @@ Liste des jeux utilisés dans les différents épisodes du [Défi du Challenge](
 
 ### 07/09/2014 [Le défi du challenge 07 - Jérémy VS Gilles](https://www.youtube.com/watch?v=G9OFY0eiJSI)
 
-1. [Left 4 Dead 2](https://fr.wikipedia.org/wiki/Left_4_Dead_2)
-2. [Nintendo World Cup](https://fr.wikipedia.org/wiki/Nintendo_World_Cup)
-3. [Worms Armageddon](https://fr.wikipedia.org/wiki/Worms_Armageddon)
+1. [Left 4 Dead 2](https://fr.wikipedia.org/wiki/Left_4_Dead_2)  (FPS / PC)
+2. [Nintendo World Cup](https://fr.wikipedia.org/wiki/Nintendo_World_Cup) (FOot / NES)
+3. [Worms Armageddon](https://fr.wikipedia.org/wiki/Worms_Armageddon) (Stratégie / PC)
+
+BONUS 1. [Left 4 dead 2 Uncut](https://fr.wikipedia.org/wiki/Left_4_Dead_2) (FPS / PC)
+BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon) (Stratégie / PC)
+
+[BONUS](https://www.youtube.com/watch?v=Lgy7_XUWf-A). [Pool Nation]() (Billard / PC)
 
 ### 21/09/2014 [Le défi du challenge 08 - Bob Lennon VS Benzaie](https://www.youtube.com/watch?v=YWk9Wpnoq6c)
 
