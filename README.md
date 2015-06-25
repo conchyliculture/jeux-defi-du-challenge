@@ -109,7 +109,13 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 
 [BONUS](https://www.youtube.com/watch?v=Yy6av5rLwCc). [Swing Soccer](http://www.bored.com/games/swing-soccer/) ( / Flash)
 
-[Le défi du challenge 17 - Dorian VS Sylvain](https://www.youtube.com/watch?v=THrn0xJXtjY)
+### 08/02/2015 [Le défi du challenge 17 - Dorian VS Sylvain](https://www.youtube.com/watch?v=THrn0xJXtjY)
+
+1. [Mount your friend](http://store.steampowered.com/app/296470/) (Party Game / PC)
+2. [Race the sun](https://en.wikipedia.org/wiki/Race_the_Sun_%28video_game%29) (Course / PC)
+3. [Bit.Trip Beat](https://fr.wikipedia.org/wiki/Bit.Trip_Beat) (Rhytme / PC)
+
+[BONUS](https://www.youtube.com/watch?v=j7cOZ_nA_0A). [1001 Spikes](https://en.wikipedia.org/wiki/1001_Spikes) (Plateforme / PC)
 
 [Le défi du challenge 18 - Bulbeuse VS CdV](https://www.youtube.com/watch?v=0--pfNtZ_eY)
 
