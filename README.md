@@ -55,7 +55,11 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 2. [Soccer Physics](http://ottoojala.com/soccerphysics/) (Sport / Flash)
 3. [Combat School](https://en.wikipedia.org/wiki/Combat_School) ( Track & Field / Arcade )
 
-[Le défi du challenge 09 - Asharfh VS Brother main](https://www.youtube.com/watch?v=xVO3fnfY6CU)
+### 05/10/2014 [Le défi du challenge 09 - Asharfh VS Brother main](https://www.youtube.com/watch?v=xVO3fnfY6CU)
+
+1. [Das Uberleben](http://www.pixelprospector.com/das-uberleben/) (Party Game / PC)
+2. [Tetris Plus 2](https://fr.wikipedia.org/wiki/Tetris_Plus) (Puzzle / Arcade)
+3. [Pugsley's Scavenger Hunt](https://fr.wikipedia.org/wiki/The_Addams_Family:_Pugsley%27s_Scavenger_Hunt) (Plateforme / SNES)
 
 [Le défi du challenge 10 - Nico VS Karim](https://www.youtube.com/watch?v=_xV-VF2ZHxA)
 
