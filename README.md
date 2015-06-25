@@ -37,6 +37,12 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 2. [Triad](http://auntiepixelante.com/triad/)
 3. [NBA Jam Tournament Edition](https://fr.wikipedia.org/wiki/NBA_Jam:_Tournament_Edition)
 
+### 10/08/2014 [Le défi du challenge Spécial](https://www.youtube.com/watch?v=Zvh6bkhDhEg)
+
+1. [Eggnong](http://madgarden.itch.io/eggnogg) (Plateforme / PC)
+
+[vidéo de la (finale)](https://www.youtube.com/watch?v=f9hrywv8cn0)
+
 ### 24/08/2014 [Le défi du challenge 06 - Kilaye VS Naxxel](https://www.youtube.com/watch?v=URMAiJFEw2s)
 
 1. [Kururin Squash!](https://en.wikipedia.org/wiki/Kururin_Squash!) (Puzzle / GameCube)
@@ -101,6 +107,10 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 
 [BONUS](https://www.youtube.com/watch?v=NdpHStDUKgI). [Super Smash Bros Wii U](https://fr.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_/_for_Wii_U) (Fighting / Wii U)
 
+### 11/01/2015 [Le défi du challenge Spécial 2](https://www.youtube.com/watch?v=nokxggRp0XA)
+
+1. [Samurai Gunn](https://fr.wikipedia.org/wiki/Samurai_Gunn) (Fighting / PC)
+
 ### 25/01/2015 [Le défi du challenge 16 - Ysangwen VS Nico](https://www.youtube.com/watch?v=iQkJZALlqN4)
 
 1. [Get on top](http://www.foddy.net/GetOnTop.html) ( / Flash )
@@ -149,6 +159,10 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 
 [BONUS](https://www.youtube.com/watch?v=nO4FjiRtoT4). [Hotline Miami 2 : The Wrong Number](https://fr.wikipedia.org/wiki/Hotline_Miami_2:_Wrong_Number) (Action / PC)
 
+### 19/04/2015 [Le défi du challenge Spécial 3](https://www.youtube.com/watch?v=BNF_0kxJQ_A)
+
+1. [Ultra street fighter IV - OMEGA](https://fr.wikipedia.org/wiki/Super_Street_Fighter_IV) (Fighting / XBOX 360)
+
 ### 03/05/2015 [Le défi du challenge 22 - Dorian VS Pierre](https://www.youtube.com/watch?v=GeR_lYme2NA)
 
 1. [Pinball FX2 : Star Wars](https://en.wikipedia.org/wiki/Pinball_FX_2) (Flipper / PC)
@@ -180,9 +194,8 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 
 [BONUS](https://www.youtube.com/watch?v=C3-Nul3sT7M). [Twinkle Star Sprites](https://fr.wikipedia.org/wiki/Twinkle_Star_Sprites) (Shoot'em up / Arcade)
 
-[Le défi du challenge Spécial 2 - Samurai Gunn](https://www.youtube.com/watch?v=nokxggRp0XA)
 
-[Le défi du challenge Spécial 3 - Ultra street fighter IV  - OMEGA](https://www.youtube.com/watch?v=BNF_0kxJQ_A)
+
 
 
 
