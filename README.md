@@ -49,7 +49,11 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 2. [Nintendo World Cup](https://fr.wikipedia.org/wiki/Nintendo_World_Cup)
 3. [Worms Armageddon](https://fr.wikipedia.org/wiki/Worms_Armageddon)
 
-[Le défi du challenge 08 - Bob Lennon VS Benzaie](https://www.youtube.com/watch?v=YWk9Wpnoq6c)
+### 21/09/2014 [Le défi du challenge 08 - Bob Lennon VS Benzaie](https://www.youtube.com/watch?v=YWk9Wpnoq6c)
+
+1. [Hogan's Alley](https://fr.wikipedia.org/wiki/Hogan%27s_Alley_%28jeu_vid%C3%A9o%29)  (Tir / NES)
+2. [Soccer Physics](http://ottoojala.com/soccerphysics/) (Sport / Flash)
+3. [Combat School](https://en.wikipedia.org/wiki/Combat_School) ( Track & Field / Arcade )
 
 [Le défi du challenge 09 - Asharfh VS Brother main](https://www.youtube.com/watch?v=xVO3fnfY6CU)
 
