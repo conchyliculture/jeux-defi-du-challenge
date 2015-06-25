@@ -7,15 +7,17 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 [Le défi du challenge - Spécial  - Eggnogg](https://www.youtube.com/watch?v=Zvh6bkhDhEg)
 
 
-### Épisode 01, 04/05/2014
-
-[Le défi du challenge 01 (Pilote) - Nico VS CdV](https://www.youtube.com/watch?v=YsyXkDORsA8)
+### 04/05/2014 [Le défi du challenge 01 (Pilote) - Nico VS CdV](https://www.youtube.com/watch?v=YsyXkDORsA8)
 
 1. [Salamander Life Force](https://fr.wikipedia.org/wiki/Salamander_%28jeu_vid%C3%A9o%29)
 2. [Crash Team Racing](https://fr.wikipedia.org/wiki/Crash_Team_Racing)
 3. [Peggle Nights](https://fr.wikipedia.org/wiki/Peggle_Nights)
 
-[Le défi du challenge 02 - Seb VS Dorian](https://www.youtube.com/watch?v=dmZA9AotCAA)
+### 18/05/2014 [Le défi du challenge 02 - Seb VS Dorian](https://www.youtube.com/watch?v=dmZA9AotCAA)
+
+1. [Divekick](https://en.wikipedia.org/wiki/Divekick)
+2. [Adventures of Lolo 2](https://fr.wikipedia.org/wiki/Adventures_of_Lolo_2)
+3. [Bubble Bobble](https://fr.wikipedia.org/wiki/Bubble_Bobble)
 
 [Le défi du challenge 03 - Realmyop VS Fred](https://www.youtube.com/watch?v=8zICy3swdoQ)
 
