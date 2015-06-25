@@ -37,7 +37,11 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 2. [Triad](http://auntiepixelante.com/triad/)
 3. [NBA Jam Tournament Edition](https://fr.wikipedia.org/wiki/NBA_Jam:_Tournament_Edition)
 
-[Le défi du challenge 06 - Kilaye VS Naxxel](https://www.youtube.com/watch?v=URMAiJFEw2s)
+### 24/08/2014 [Le défi du challenge 06 - Kilaye VS Naxxel](https://www.youtube.com/watch?v=URMAiJFEw2s)
+
+1. [Kururin Squash!](https://en.wikipedia.org/wiki/Kururin_Squash!) (Puzzle / GameCube)
+2. [Burnout Revenge](https://fr.wikipedia.org/wiki/Burnout_Revenge) (Course / XBOX 360)
+3. [Lethal League](https://fr.wikipedia.org/wiki/Lethal_League) (Fighting / PC)
 
 ### 07/09/2014 [Le défi du challenge 07 - Jérémy VS Gilles](https://www.youtube.com/watch?v=G9OFY0eiJSI)
 
