@@ -117,11 +117,29 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 
 [BONUS](https://www.youtube.com/watch?v=j7cOZ_nA_0A). [1001 Spikes](https://en.wikipedia.org/wiki/1001_Spikes) (Plateforme / PC)
 
-[Le défi du challenge 18 - Bulbeuse VS CdV](https://www.youtube.com/watch?v=0--pfNtZ_eY)
+### 22/02/2015 [Le défi du challenge 18 - Bulbeuse VS CdV](https://www.youtube.com/watch?v=0--pfNtZ_eY)
 
-[Le défi du challenge 19 - Pierre VS Mehdi](https://www.youtube.com/watch?v=c-SYA7_4044)
+1. [Sutte Hakkun](https://en.wikipedia.org/wiki/Sutte_Hakkun) ( Puzzle / SFC Stellaview)
+2. [Bishi Bashi Special 2](https://en.wikipedia.org/wiki/Bishi_Bashi) (Party Games / PC)
+3. [Quinty](https://en.wikipedia.org/wiki/Mendel_Palace) (Puzzle, Action / NES )
 
-[Le défi du challenge 20 - Dorian VS Nico](https://www.youtube.com/watch?v=81ifTiWdOmA)
+[BONUS](https://www.youtube.com/watch?v=p1HrU2a2xS4). [Eggnong+](http://madgarden.itch.io/eggnogg) (Plateforme / PC)
+
+### 08/03/2015 [Le défi du challenge 19 - Pierre VS Mehdi](https://www.youtube.com/watch?v=c-SYA7_4044)
+
+1. [Hot Diggity](http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=35553) (Creusage / PC)
+2. [Deep calls to deep](http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=32804) (Plogeage / PC)
+3. [Steamworld Dig](https://en.wikipedia.org/wiki/SteamWorld_Dig) (Plateforme, aventure / PC)
+
+[BONUS](https://www.youtube.com/watch?v=nSfCbcbuWvo). [Binding of ISaac: Rebirth](https://fr.wikipedia.org/wiki/The_Binding_of_Isaac:_Rebirth) (Action,aventure / PC)
+
+### 22/03/2015 [Le défi du challenge 20 - Dorian VS Nico](https://www.youtube.com/watch?v=81ifTiWdOmA)
+
+1. [Akumajō Special: Boku Dracula-kun](https://en.wikipedia.org/wiki/Akumaj%C5%8D_Special:_Boku_Dracula-kun) (Plateforme / Famicom)
+2. [Kirby: Nightmare in Dream Land](https://fr.wikipedia.org/wiki/Kirby:_Nightmare_in_Dream_Land) (Plateforme / GBA)
+3. [Robot Unicorn Attack](https://fr.wikipedia.org/wiki/Robot_Unicorn_Attack) (Plateforme / Flash)
+
+[BONUS](https://www.youtube.com/watch?v=lO-3kC5JCuM). [Super Gem Fighter: Mini Mix](https://fr.wikipedia.org/wiki/Super_Gem_Fighter:_Mini_Mix) (Fighting / Arcade)
 
 [Le défi du challenge 21 - Kilaye VS Realmyop](https://www.youtube.com/watch?v=AyC0wiT33pw)
 
