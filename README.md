@@ -93,7 +93,13 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 
 [BONUS](https://www.youtube.com/watch?v=vQWp-k4PUkI). [Gang Beasts](http://gangbeasts.com/) (Combat / PC)
 
-[Le défi du challenge 15 - Rufio VS Karim](https://www.youtube.com/watch?v=d5Kg0iJidzI)
+### 28/12/2014 [Le défi du challenge 15 - Rufio VS Karim](https://www.youtube.com/watch?v=d5Kg0iJidzI)
+
+1. [Ragdoll KungFu](http://www.ragdollkungfu.com/) ( Fighting / PC)
+2. [KungFu Strike](http://qoocsoft.com/en/) (Beat'em up / PC)
+3. [Double Action Boogaloo](http://www.doubleactiongame.com/) (FPS / PC)
+
+[BONUS](https://www.youtube.com/watch?v=NdpHStDUKgI). [Super Smash Bros Wii U](https://fr.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_/_for_Wii_U) (Fighting / Wii U)
 
 [Le défi du challenge 16 - Ysangwen VS Nico](https://www.youtube.com/watch?v=iQkJZALlqN4)
 
