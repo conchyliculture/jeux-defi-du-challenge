@@ -141,15 +141,44 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 
 [BONUS](https://www.youtube.com/watch?v=lO-3kC5JCuM). [Super Gem Fighter: Mini Mix](https://fr.wikipedia.org/wiki/Super_Gem_Fighter:_Mini_Mix) (Fighting / Arcade)
 
-[Le défi du challenge 21 - Kilaye VS Realmyop](https://www.youtube.com/watch?v=AyC0wiT33pw)
+### 05/04/2015 [Le défi du challenge 21 - Kilaye VS Realmyop](https://www.youtube.com/watch?v=AyC0wiT33pw)
 
-[Le défi du challenge 22 - Dorian VS Pierre](https://www.youtube.com/watch?v=GeR_lYme2NA)
+1. [Global Gladiators](https://fr.wikipedia.org/wiki/Global_Gladiators) ( Plateforme / Megadrive )
+2. [Pepsi Man](https://en.wikipedia.org/wiki/Pepsiman_%28video_game%29) ( Runner / PSX)
+3. FAIL
 
-[Le défi du challenge 23 - Sylvain VS Mehdi](https://www.youtube.com/watch?v=2B2sATvxNqI)
+[BONUS](https://www.youtube.com/watch?v=nO4FjiRtoT4). [Hotline Miami 2 : The Wrong Number](https://fr.wikipedia.org/wiki/Hotline_Miami_2:_Wrong_Number) (Action / PC)
 
-[Le défi du challenge 24 - Realmyop VS CdV](https://www.youtube.com/watch?v=xwhZhGycRWE)
+### 03/05/2015 [Le défi du challenge 22 - Dorian VS Pierre](https://www.youtube.com/watch?v=GeR_lYme2NA)
 
-[Le défi du challenge 25 - Roni VS Dorian](https://www.youtube.com/watch?v=D7FUJx_dX14)
+1. [Pinball FX2 : Star Wars](https://en.wikipedia.org/wiki/Pinball_FX_2) (Flipper / PC)
+2. [The Outfoxies](https://en.wikipedia.org/wiki/The_Outfoxies) ( Fighting / Arcade)
+
+[BONUS](https://www.youtube.com/watch?v=Lgy7_XUWf-A). [Pool Nation]() (Billard / PC)
+
+### 17/05/2015 [Le défi du challenge 23 - Sylvain VS Mehdi](https://www.youtube.com/watch?v=2B2sATvxNqI)
+
+1. [Kula Wold](https://fr.wikipedia.org/wiki/Kula_World) (Puzzle, reflexion / PC)
+2. [Super Mario Bros. 2 (à l'envers)](https://fr.wikipedia.org/wiki/Super_Mario_Bros._2) (Plateforme, NES)
+3. [Bombjack Twin](https://en.wikipedia.org/wiki/Bomb_Jack#Sequels) ( Puzzle, Plateforme / Arcade)
+
+[BONUS](https://www.youtube.com/watch?v=hbBr8iYQD4c). [Pocky & Rocky](https://fr.wikipedia.org/wiki/Pocky_and_Rocky) (Beat'em up / SNES)
+
+### 31/05/2015 [Le défi du challenge 24 - Realmyop VS CdV](https://www.youtube.com/watch?v=xwhZhGycRWE)
+
+1. [Shovel Knight](https://fr.wikipedia.org/wiki/Shovel_Knight) (Plateforme / PC)
+2. [Tony Hawk's Pro Skater 2](https://fr.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_2) (Skate / PSX)
+3. [Megaman X2](https://fr.wikipedia.org/wiki/Megaman_X2) (Plateforme / SNES)
+
+[BONUS](https://www.youtube.com/watch?v=zH0-D-xJHrw). [Pop'n Music](https://fr.wikipedia.org/wiki/Pop%27n_Music) (Rythme / Arcade)
+
+### 14/06/2015 [Le défi du challenge 25 - Roni VS Dorian](https://www.youtube.com/watch?v=D7FUJx_dX14)
+
+1. [Goof Troop](https://fr.wikipedia.org/wiki/Goof_Troop) (Action, aventure / SNES)
+2. [The Angry Video Game Nerd Adventures](https://fr.wikipedia.org/wiki/The_Angry_Video_Game_Nerd#Jeu_vid.C3.A9o) (Plateforme / PC)
+3. [Sunset Riders](https://fr.wikipedia.org/wiki/Sunset_Riders) (Run & Gun / Arcade)
+
+[BONUS](https://www.youtube.com/watch?v=C3-Nul3sT7M). [Twinkle Star Sprites](https://fr.wikipedia.org/wiki/Twinkle_Star_Sprites) (Shoot'em up / Arcade)
 
 [Le défi du challenge Spécial 2 - Samurai Gunn](https://www.youtube.com/watch?v=nokxggRp0XA)
 
