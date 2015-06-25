@@ -61,7 +61,10 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 2. [Tetris Plus 2](https://fr.wikipedia.org/wiki/Tetris_Plus) (Puzzle / Arcade)
 3. [Pugsley's Scavenger Hunt](https://fr.wikipedia.org/wiki/The_Addams_Family:_Pugsley%27s_Scavenger_Hunt) (Plateforme / SNES)
 
-[Le défi du challenge 10 - Nico VS Karim](https://www.youtube.com/watch?v=_xV-VF2ZHxA)
+### 19/10/2014 [Le défi du challenge 10 - Nico VS Karim](https://www.youtube.com/watch?v=_xV-VF2ZHxA)
+
+1. [Double Dragon Neon](https://fr.wikipedia.org/wiki/Double_Dragon:_Neon) (Beat'em all / XBOX 360)
+2. [SMW: The Legend Continues](http://fusoya.eludevisibility.org/lm/dw.html) (Plateforme SMW-Hack / SNES)
 
 [Le défi du challenge 11 - Meeea VS G-E2](https://www.youtube.com/watch?v=C6bC7iAxhB4)
 
