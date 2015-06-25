@@ -71,7 +71,7 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 1. [Smash TV](https://fr.wikipedia.org/wiki/Smash_TV_%28jeu_vid%C3%A9o%29) (Action / SNES)
 2. [Dorito's Crash Course](https://en.wikipedia.org/wiki/Doritos_Crash_Course) ( Plateforme / Xbox 360 )
 
-BONUS. [Sonic the Hedgehog 2](https://fr.wikipedia.org/wiki/Sonic_the_Hedgehog_2) (Plateforme / Megadrive)
+[BONUS](https://www.youtube.com/watch?v=ljJsieWBiSk). [Sonic the Hedgehog 2](https://fr.wikipedia.org/wiki/Sonic_the_Hedgehog_2) (Plateforme / Megadrive)
 
 ### 16/11/2014 [Le défi du challenge 12 - Realmyop VS Sylvain](https://www.youtube.com/watch?v=Xu4fpFy3V0I)
 
@@ -84,9 +84,14 @@ BONUS. [Sonic the Hedgehog 2](https://fr.wikipedia.org/wiki/Sonic_the_Hedgehog_2
 1. [Lethal Enforcers](https://fr.wikipedia.org/wiki/Lethal_Enforcers) (Rail shooter / Arcade)
 2. [Batman](https://fr.wikipedia.org/wiki/Batman:_The_Video_Game) (Run & Gun / NES)
 
-BONUS. [Lethal League](https://fr.wikipedia.org/wiki/Lethal_League) (Fighting / PC)
+[BONUS](https://www.youtube.com/watch?v=6wKBK7jWgfY). [Lethal League](https://fr.wikipedia.org/wiki/Lethal_League) (Fighting / PC)
 
-[Le défi du challenge 14 - CdV VS Seb](https://www.youtube.com/watch?v=WZ6PBoL2lDc)
+### 14/12/2014 [Le défi du challenge 14 - CdV VS Seb](https://www.youtube.com/watch?v=WZ6PBoL2lDc)
+
+1. [Prolétarian Ninja X](http://deepnight.net/games/proletarian-ninja-x/) (Puzzle / PC)
+2. [Super Mario War](http://supermariowar.supersanctuary.net/) (Party Game, Fighting / PC)
+
+[BONUS](https://www.youtube.com/watch?v=vQWp-k4PUkI). [Gang Beasts](http://gangbeasts.com/) (Combat / PC)
 
 [Le défi du challenge 15 - Rufio VS Karim](https://www.youtube.com/watch?v=d5Kg0iJidzI)
 
