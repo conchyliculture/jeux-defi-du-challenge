@@ -66,7 +66,12 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 1. [Double Dragon Neon](https://fr.wikipedia.org/wiki/Double_Dragon:_Neon) (Beat'em all / XBOX 360)
 2. [SMW: The Legend Continues](http://fusoya.eludevisibility.org/lm/dw.html) (Plateforme SMW-Hack / SNES)
 
-[Le défi du challenge 11 - Meeea VS G-E2](https://www.youtube.com/watch?v=C6bC7iAxhB4)
+### 02/11/2014 [Le défi du challenge 11 - Meeea VS G-E2](https://www.youtube.com/watch?v=C6bC7iAxhB4)
+
+1. [Smash TV](https://fr.wikipedia.org/wiki/Smash_TV_%28jeu_vid%C3%A9o%29) (Action / SNES)
+2. [Dorito's Crash Course](https://en.wikipedia.org/wiki/Doritos_Crash_Course) ( Plateforme / Xbox 360 )
+
+BONUS. [Sonic the Hedgehog 2](https://fr.wikipedia.org/wiki/Sonic_the_Hedgehog_2) (Plateforme / Megadrive)
 
 [Le défi du challenge 12 - Realmyop VS Sylvain](https://www.youtube.com/watch?v=Xu4fpFy3V0I)
 
