@@ -101,7 +101,13 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 
 [BONUS](https://www.youtube.com/watch?v=NdpHStDUKgI). [Super Smash Bros Wii U](https://fr.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_/_for_Wii_U) (Fighting / Wii U)
 
-[Le défi du challenge 16 - Ysangwen VS Nico](https://www.youtube.com/watch?v=iQkJZALlqN4)
+### 25/01/2015 [Le défi du challenge 16 - Ysangwen VS Nico](https://www.youtube.com/watch?v=iQkJZALlqN4)
+
+1. [Get on top](http://www.foddy.net/GetOnTop.html) ( / Flash )
+2. [Super Hot](http://superhotgame.com/) (FPS / PC)
+3. [Yojimbrawl](http://www.pixellovegames.com/games/yojimbrawl/?game=yojimbrawl) (Fighting / PC)
+
+[BONUS](https://www.youtube.com/watch?v=Yy6av5rLwCc). [Swing Soccer](http://www.bored.com/games/swing-soccer/) ( / Flash)
 
 [Le défi du challenge 17 - Dorian VS Sylvain](https://www.youtube.com/watch?v=THrn0xJXtjY)
 
