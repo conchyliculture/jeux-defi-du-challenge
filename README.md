@@ -160,6 +160,8 @@ Liste des jeux utilisés dans les différents épisodes du [Défi du Challenge](
 
 1. [Ultra street fighter IV - OMEGA](https://fr.wikipedia.org/wiki/Super_Street_Fighter_IV) (Fighting / XBOX 360)
 
+[BONUS](https://www.youtube.com/watch?v=ulCcsDZhrqA). LE KUMITÉ
+
 ### 03/05/2015 [Le défi du challenge 22 - Dorian VS Pierre](https://www.youtube.com/watch?v=GeR_lYme2NA)
 
 1. [Pinball FX2 : Star Wars](https://en.wikipedia.org/wiki/Pinball_FX_2) (Flipper / PC)
