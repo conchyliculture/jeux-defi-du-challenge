@@ -73,7 +73,11 @@ Liste des jeux utilisés dans les différents épisodes du Défi du Challenge.
 
 BONUS. [Sonic the Hedgehog 2](https://fr.wikipedia.org/wiki/Sonic_the_Hedgehog_2) (Plateforme / Megadrive)
 
-[Le défi du challenge 12 - Realmyop VS Sylvain](https://www.youtube.com/watch?v=Xu4fpFy3V0I)
+### 16/11/2014 [Le défi du challenge 12 - Realmyop VS Sylvain](https://www.youtube.com/watch?v=Xu4fpFy3V0I)
+
+1. [Megaman 8bit deathmatch](http://cutstuff.net/mm8bdm/) (FPS / PC)
+2. [Super Smash Land](http://www.supersmashland.com/) (Fighting / PC)
+3. [Hammered](http://www.daviddraws.co.uk/games.html) (Beat'em up / Flash)
 
 [Le défi du challenge 13 - Mehdi VS Dorian](https://www.youtube.com/watch?v=HZN6UjThBOA)
 
