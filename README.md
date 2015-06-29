@@ -174,7 +174,7 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=Lgy7_XUWf-A). [Pool Nation]() (Billard / PC)
 
-### 17/05/2015 [Le défi du challenge 23 - Sylvain VS Mehdi](https://www.youtube.com/watch?v=2B2sATvxNqI)
+### 17/05/2015 [Le défi du challenge 23 - Sylvain VS Mehdi](https://www.youtube.com/watch?v=2B2sATvxNqI)
 
 1. [Kula Wold](https://fr.wikipedia.org/wiki/Kula_World) (Puzzle, reflexion / PC)
 2. [Super Mario Bros. 2 (à l'envers)](https://fr.wikipedia.org/wiki/Super_Mario_Bros._2) (Plateforme, NES)
@@ -198,6 +198,13 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=C3-Nul3sT7M). [Twinkle Star Sprites](https://fr.wikipedia.org/wiki/Twinkle_Star_Sprites) (Shoot'em up / Arcade)
 
+### 28/06/2015 [Le défi du challenge 26 - Rufio VS Zouzou / "Boum!"](https://www.youtube.com/watch?v=?)
+
+1. [Contra III: The Alien Wars](https://fr.wikipedia.org/wiki/Super_Probotector:_Alien_Rebels) (Action, Run & Gun / SNES)
+2. [McPixel](http://mcpixel.net/) (Point & Click / PC)
+3. [GigaWing](https://fr.wikipedia.org/wiki/GigaWing) (Shoot'em up / Arcade)
+
+[BONUS](https://www.youtube.com/watch?v=KaXcjRmFNdg). [Street Fighter III : 3rd Strike](https://fr.wikipedia.org/wiki/Twinkle_Star_Sprites) (Bagarre / Arcade)
 
 
 
