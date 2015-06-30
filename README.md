@@ -87,21 +87,21 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 2. [Super Smash Land](http://www.supersmashland.com/) (Fighting / PC)
 3. [Hammered](http://www.daviddraws.co.uk/games.html) (Beat'em up / Flash)
 
-### 30/11/2014 [Le défi du challenge 13 - Mehdi VS Dorian](https://www.youtube.com/watch?v=HZN6UjThBOA)
+### 30/11/2014 [Le défi du challenge 13 - Mehdi VS Dorian](https://www.youtube.com/watch?v=HZN6UjThBOA) / "Cinéma des années 90"
 
 1. [Lethal Enforcers](https://fr.wikipedia.org/wiki/Lethal_Enforcers) (Rail shooter / Arcade)
 2. [Batman](https://fr.wikipedia.org/wiki/Batman:_The_Video_Game) (Run & Gun / NES)
 
 [BONUS](https://www.youtube.com/watch?v=6wKBK7jWgfY). [Lethal League](https://fr.wikipedia.org/wiki/Lethal_League) (Fighting / PC)
 
-### 14/12/2014 [Le défi du challenge 14 - CdV VS Seb](https://www.youtube.com/watch?v=WZ6PBoL2lDc)
+### 14/12/2014 [Le défi du challenge 14 - CdV VS Seb](https://www.youtube.com/watch?v=WZ6PBoL2lDc) / "Les jeux gratuits"
 
 1. [Prolétarian Ninja X](http://deepnight.net/games/proletarian-ninja-x/) (Puzzle / PC)
 2. [Super Mario War](http://supermariowar.supersanctuary.net/) (Party Game, Fighting / PC)
 
 [BONUS](https://www.youtube.com/watch?v=vQWp-k4PUkI). [Gang Beasts](http://gangbeasts.com/) (Combat / PC)
 
-### 28/12/2014 [Le défi du challenge 15 - Rufio VS Karim](https://www.youtube.com/watch?v=d5Kg0iJidzI)
+### 28/12/2014 [Le défi du challenge 15 - Rufio VS Karim](https://www.youtube.com/watch?v=d5Kg0iJidzI) / "Le cinéma Hongkongais"
 
 1. [Ragdoll KungFu](http://www.ragdollkungfu.com/) ( Fighting / PC)
 2. [KungFu Strike](http://qoocsoft.com/en/) (Beat'em up / PC)
@@ -121,7 +121,7 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=Yy6av5rLwCc). [Swing Soccer](http://www.bored.com/games/swing-soccer/) ( / Flash)
 
-### 08/02/2015 [Le défi du challenge 17 - Dorian VS Sylvain](https://www.youtube.com/watch?v=THrn0xJXtjY)
+### 08/02/2015 [Le défi du challenge 17 - Dorian VS Sylvain](https://www.youtube.com/watch?v=THrn0xJXtjY) / "Simple mais pas simpliste"
 
 1. [Mount your friend](http://store.steampowered.com/app/296470/) (Party Game / PC)
 2. [Race the sun](https://en.wikipedia.org/wiki/Race_the_Sun_%28video_game%29) (Course / PC)
@@ -129,7 +129,7 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=j7cOZ_nA_0A). [1001 Spikes](https://en.wikipedia.org/wiki/1001_Spikes) (Plateforme / PC)
 
-### 22/02/2015 [Le défi du challenge 18 - Bulbeuse VS CdV](https://www.youtube.com/watch?v=0--pfNtZ_eY)
+### 22/02/2015 [Le défi du challenge 18 - Bulbeuse VS CdV](https://www.youtube.com/watch?v=0--pfNtZ_eY) / "Les jeux japonais pas sortis en Europe"
 
 1. [Sutte Hakkun](https://en.wikipedia.org/wiki/Sutte_Hakkun) ( Puzzle / SFC Stellaview)
 2. [Bishi Bashi Special 2](https://en.wikipedia.org/wiki/Bishi_Bashi) (Party Games / PC)
@@ -137,15 +137,15 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=p1HrU2a2xS4). [Eggnong+](http://madgarden.itch.io/eggnogg) (Plateforme / PC)
 
-### 08/03/2015 [Le défi du challenge 19 - Pierre VS Mehdi](https://www.youtube.com/watch?v=c-SYA7_4044)
+### 08/03/2015 [Le défi du challenge 19 - Pierre VS Mehdi](https://www.youtube.com/watch?v=c-SYA7_4044) / "We need to go deeper"
 
 1. [Hot Diggity](http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=35553) (Creusage / PC)
-2. [Deep calls to deep](http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=32804) (Plogeage / PC)
+2. [Deep calls to deep](http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=32804) (Plongeage / PC)
 3. [Steamworld Dig](https://en.wikipedia.org/wiki/SteamWorld_Dig) (Plateforme, aventure / PC)
 
 [BONUS](https://www.youtube.com/watch?v=nSfCbcbuWvo). [Binding of ISaac: Rebirth](https://fr.wikipedia.org/wiki/The_Binding_of_Isaac:_Rebirth) (Action,aventure / PC)
 
-### 22/03/2015 [Le défi du challenge 20 - Dorian VS Nico](https://www.youtube.com/watch?v=81ifTiWdOmA)
+### 22/03/2015 [Le défi du challenge 20 - Dorian VS Nico](https://www.youtube.com/watch?v=81ifTiWdOmA) / "Jeu mignon"
 
 1. [Akumajō Special: Boku Dracula-kun](https://en.wikipedia.org/wiki/Akumaj%C5%8D_Special:_Boku_Dracula-kun) (Plateforme / Famicom)
 2. [Kirby: Nightmare in Dream Land](https://fr.wikipedia.org/wiki/Kirby:_Nightmare_in_Dream_Land) (Plateforme / GBA)
@@ -153,7 +153,7 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=lO-3kC5JCuM). [Super Gem Fighter: Mini Mix](https://fr.wikipedia.org/wiki/Super_Gem_Fighter:_Mini_Mix) (Fighting / Arcade)
 
-### 05/04/2015 [Le défi du challenge 21 - Kilaye VS Realmyop](https://www.youtube.com/watch?v=AyC0wiT33pw)
+### 05/04/2015 [Le défi du challenge 21 - Kilaye VS Realmyop](https://www.youtube.com/watch?v=AyC0wiT33pw)  / "Placement de produit"
 
 1. [Global Gladiators](https://fr.wikipedia.org/wiki/Global_Gladiators) ( Plateforme / Megadrive )
 2. [Pepsi Man](https://en.wikipedia.org/wiki/Pepsiman_%28video_game%29) ( Runner / PSX)
@@ -167,22 +167,22 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=ulCcsDZhrqA). LE KUMITÉ
 
-### 03/05/2015 [Le défi du challenge 22 - Dorian VS Pierre](https://www.youtube.com/watch?v=GeR_lYme2NA)
+### 03/05/2015 [Le défi du challenge 22 - Dorian VS Pierre](https://www.youtube.com/watch?v=GeR_lYme2NA) / "Jeu de café"
 
 1. [Pinball FX2 : Star Wars](https://en.wikipedia.org/wiki/Pinball_FX_2) (Flipper / PC)
 2. [The Outfoxies](https://en.wikipedia.org/wiki/The_Outfoxies) ( Fighting / Arcade)
 
 [BONUS](https://www.youtube.com/watch?v=Lgy7_XUWf-A). [Pool Nation]() (Billard / PC)
 
-### 17/05/2015 [Le défi du challenge 23 - Sylvain VS Mehdi](https://www.youtube.com/watch?v=2B2sATvxNqI)
+### 17/05/2015 [Le défi du challenge 23 - Sylvain VS Mehdi](https://www.youtube.com/watch?v=2B2sATvxNqI) / "La gravité"
 
-1. [Kula Wold](https://fr.wikipedia.org/wiki/Kula_World) (Puzzle, reflexion / PC)
+1. [Kula Wold](https://fr.wikipedia.org/wiki/Kula_World) (Puzzle, reflexion / PSX)
 2. [Super Mario Bros. 2 (à l'envers)](https://fr.wikipedia.org/wiki/Super_Mario_Bros._2) (Plateforme, NES)
 3. [Bombjack Twin](https://en.wikipedia.org/wiki/Bomb_Jack#Sequels) ( Puzzle, Plateforme / Arcade)
 
 [BONUS](https://www.youtube.com/watch?v=hbBr8iYQD4c). [Pocky & Rocky](https://fr.wikipedia.org/wiki/Pocky_and_Rocky) (Beat'em up / SNES)
 
-### 31/05/2015 [Le défi du challenge 24 - Realmyop VS CdV](https://www.youtube.com/watch?v=xwhZhGycRWE)
+### 31/05/2015 [Le défi du challenge 24 - Realmyop VS CdV](https://www.youtube.com/watch?v=xwhZhGycRWE) / "Premier Niveau"
 
 1. [Shovel Knight](https://fr.wikipedia.org/wiki/Shovel_Knight) (Plateforme / PC)
 2. [Tony Hawk's Pro Skater 2](https://fr.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_2) (Skate / PSX)
@@ -190,7 +190,7 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=zH0-D-xJHrw). [Pop'n Music](https://fr.wikipedia.org/wiki/Pop%27n_Music) (Rythme / Arcade)
 
-### 14/06/2015 [Le défi du challenge 25 - Roni VS Dorian](https://www.youtube.com/watch?v=D7FUJx_dX14)
+### 14/06/2015 [Le défi du challenge 25 - Roni VS Dorian](https://www.youtube.com/watch?v=D7FUJx_dX14) / "Coopération"
 
 1. [Goof Troop](https://fr.wikipedia.org/wiki/Goof_Troop) (Action, aventure / SNES)
 2. [The Angry Video Game Nerd Adventures](https://fr.wikipedia.org/wiki/The_Angry_Video_Game_Nerd#Jeu_vid.C3.A9o) (Plateforme / PC)
