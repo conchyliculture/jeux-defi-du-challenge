@@ -198,7 +198,7 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=C3-Nul3sT7M). [Twinkle Star Sprites](https://fr.wikipedia.org/wiki/Twinkle_Star_Sprites) (Shoot'em up / Arcade)
 
-### 28/06/2015 [Le défi du challenge 26 - Rufio VS Zouzou / "Boum!"](https://www.youtube.com/watch?v=?)
+### 28/06/2015 [Le défi du challenge 26 - Rufio VS Zouzou](https://www.youtube.com/watch?v=SGrIp-vuTos) / "Boum!"
 
 1. [Contra III: The Alien Wars](https://fr.wikipedia.org/wiki/Super_Probotector:_Alien_Rebels) (Action, Run & Gun / SNES)
 2. [McPixel](http://mcpixel.net/) (Point & Click / PC)
