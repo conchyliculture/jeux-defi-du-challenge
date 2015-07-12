@@ -206,7 +206,13 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=KaXcjRmFNdg). [Street Fighter III : 3rd Strike](https://fr.wikipedia.org/wiki/Twinkle_Star_Sprites) (Bagarre / Arcade)
 
+### 12/07/2015 [Le défi du challenge 27 - CdV VS Mehdi](https://www.youtube.com/watch?v=?) / "Oiseaux"
 
+1. [Joust](https://fr.wikipedia.org/wiki/Joust) (Action / Arcade)
+2. [SnakeBird Noumenon](http://snakebird.noumenongames.com/) (Puzzle Game / PC)
+3. [Duck Game](http://store.steampowered.com/app/312530/) (Bagarre / PC)
+
+[BONUS](https://www.youtube.com/watch?v=lPQGXcou10g). [Rockets Rockets Rockets](http://rocketsrocketsrockets.com/) (Bagarre das l'espace / PC)
 
 
 
