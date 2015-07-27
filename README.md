@@ -206,7 +206,7 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=KaXcjRmFNdg). [Street Fighter III : 3rd Strike](https://fr.wikipedia.org/wiki/Twinkle_Star_Sprites) (Bagarre / Arcade)
 
-### 12/07/2015 [Le défi du challenge 27 - CdV VS Mehdi](https://www.youtube.com/watch?v=?) / "Oiseaux"
+### 12/07/2015 [Le défi du challenge 27 - CdV VS Mehdi](https://www.youtube.com/watch?v=odpN8zXHk_A) / "Oiseaux"
 
 1. [Joust](https://fr.wikipedia.org/wiki/Joust) (Action / Arcade)
 2. [SnakeBird Noumenon](http://snakebird.noumenongames.com/) (Puzzle Game / PC)
@@ -214,5 +214,12 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=lPQGXcou10g). [Rockets Rockets Rockets](http://rocketsrocketsrockets.com/) (Bagarre das l'espace / PC)
 
+### 26/07/2015 [Le défi du challenge 28 - Asharfh VS Kilaye](https://www.youtube.com/watch?v=?) / "Plage / Mer / Vacances"
+
+1. [SuperSpike V'Ball](https://fr.wikipedia.org/wiki/Super_Spike_V%27Ball) (Volleyball / NES)
+2. [Wave Race : Blue Storm](https://fr.wikipedia.org/wiki/Wave_Race:_Blue_Storm) (Jetski / Gamecube)
+3. Pro Beach Soccer (Foot de Plage / PC)
+
+[BONUS](https://www.youtube.com/watch?v=aqkwO7YFr8Y). [Samurai Gunn](https://fr.wikipedia.org/wiki/Samurai_Gunn) (Bataille / PC)
 
 
