@@ -214,12 +214,18 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=lPQGXcou10g). [Rockets Rockets Rockets](http://rocketsrocketsrockets.com/) (Bagarre das l'espace / PC)
 
-### 26/07/2015 [Le défi du challenge 28 - Asharfh VS Kilaye](https://www.youtube.com/watch?v=?) / "Plage / Mer / Vacances"
+### 26/07/2015 [Le défi du challenge 28 - Asharfh VS Kilaye](https://www.youtube.com/watch?v=5YyCgAkA9k8) / "Plage / Mer / Vacances"
 
 1. [SuperSpike V'Ball](https://fr.wikipedia.org/wiki/Super_Spike_V%27Ball) (Volleyball / NES)
 2. [Wave Race : Blue Storm](https://fr.wikipedia.org/wiki/Wave_Race:_Blue_Storm) (Jetski / Gamecube)
 3. Pro Beach Soccer (Foot de Plage / PC)
 
 [BONUS](https://www.youtube.com/watch?v=aqkwO7YFr8Y). [Samurai Gunn](https://fr.wikipedia.org/wiki/Samurai_Gunn) (Bataille / PC)
+
+### 10/08/2015 [Le défi du challenge 28 - Realmyop VS Nico](https://www.youtube.com/watch?v=w7ufyhpY-U0) / "Les Boss"
+
+1. [Megaman 2](https://fr.wikipedia.org/wiki/Megaman_2) (Run & Gun / NES)
+2. [Super Meat Boy](https://fr.wikipedia.org/wiki/Super_Meat_Boy) (Plateforme / PC)
+3. [Street Fighter II Turbo](https://fr.wikipedia.org/wiki/Street_Fighter_II%27:_Champion_Edition) (Baston / SNES)
 
 
