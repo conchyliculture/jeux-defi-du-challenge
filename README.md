@@ -220,7 +220,7 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 2. [Wave Race : Blue Storm](https://fr.wikipedia.org/wiki/Wave_Race:_Blue_Storm) (Jetski / Gamecube)
 3. Pro Beach Soccer (Foot de Plage / PC)
 
-[BONUS](https://www.youtube.com/watch?v=aqkwO7YFr8Y). [Samurai Gunn](https://fr.wikipedia.org/wiki/Samurai_Gunn) (Bataille / PC)
+[BONUS](https://www.youtube.com/watch?v=aqkwO7YFr8Y). [Samurai Gunn](https://fr.wikipedia.org/wiki/Samurai_Gunn) (Bagarre / PC)
 
 ### 10/08/2015 [Le défi du challenge 29 - Realmyop VS Nico](https://www.youtube.com/watch?v=w7ufyhpY-U0) / "Les Boss"
 
@@ -234,4 +234,5 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 2. [Another World](https://fr.wikipedia.org/wiki/Another_World_%28jeu_vid%C3%A9o%29) (Action Aventure / SNES)
 3. [Odallus the dark call](https://www.odallus.net) (Plateforme / PC)
 
+[BONUS](https://www.youtube.com/watch?v=zlwUSncPbUA). [Joe Danger 2](https://en.wikipedia.org/wiki/Joe_Danger_2:_The_Movie) (Course arcade / XBOX 360)
 
