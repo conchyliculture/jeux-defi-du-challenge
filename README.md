@@ -222,10 +222,16 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=aqkwO7YFr8Y). [Samurai Gunn](https://fr.wikipedia.org/wiki/Samurai_Gunn) (Bataille / PC)
 
-### 10/08/2015 [Le défi du challenge 28 - Realmyop VS Nico](https://www.youtube.com/watch?v=w7ufyhpY-U0) / "Les Boss"
+### 10/08/2015 [Le défi du challenge 29 - Realmyop VS Nico](https://www.youtube.com/watch?v=w7ufyhpY-U0) / "Les Boss"
 
 1. [Megaman 2](https://fr.wikipedia.org/wiki/Megaman_2) (Run & Gun / NES)
 2. [Super Meat Boy](https://fr.wikipedia.org/wiki/Super_Meat_Boy) (Plateforme / PC)
 3. [Street Fighter II Turbo](https://fr.wikipedia.org/wiki/Street_Fighter_II%27:_Champion_Edition) (Baston / SNES)
+
+### 06/09/2015 [Le défi du challenge 30 - Karim VS Jérémy](https://www.youtube.com/watch?v=?) / "Les Boss"
+
+1. [QuadSmash](http://elisee.itch.io/quadsmash) (Plateforme / PC)
+2. [Another World](https://fr.wikipedia.org/wiki/Another_World_%28jeu_vid%C3%A9o%29) (Action Aventure / SNES)
+3. [Odallus the dark call](https://www.odallus.net) (Plateforme / PC)
 
 
