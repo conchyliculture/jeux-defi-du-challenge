@@ -228,7 +228,7 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 2. [Super Meat Boy](https://fr.wikipedia.org/wiki/Super_Meat_Boy) (Plateforme / PC)
 3. [Street Fighter II Turbo](https://fr.wikipedia.org/wiki/Street_Fighter_II%27:_Champion_Edition) (Baston / SNES)
 
-### 06/09/2015 [Le défi du challenge 30 - Karim VS Jérémy](https://www.youtube.com/watch?v=?) / "Les Boss"
+### 06/09/2015 [Le défi du challenge 30 - Karim VS Jérémy](https://www.youtube.com/watch?v=ailvgrfPbDE) / "Les Boss"
 
 1. [QuadSmash](http://elisee.itch.io/quadsmash) (Plateforme / PC)
 2. [Another World](https://fr.wikipedia.org/wiki/Another_World_%28jeu_vid%C3%A9o%29) (Action Aventure / SNES)
@@ -236,3 +236,37 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=zlwUSncPbUA). [Joe Danger 2](https://en.wikipedia.org/wiki/Joe_Danger_2:_The_Movie) (Course arcade / XBOX 360)
 
+### 27/09/2015 [Le défi du challenge 31 - Dorian VS CdV](https://www.youtube.com/watch?v=) / ""
+
+1. [QuadSmash](http://elisee.itch.io/quadsmash) (Plateforme / PC)
+2. 
+
+[BONUS](https://www.youtube.com/watch?v=zlwUSncPbUA). [Joe Danger 2](https://en.wikipedia.org/wiki/Joe_Danger_2:_The_Movie) (Course arcade / XBOX 360)
+
+### 11/10/2015 [Le défi du challenge 32 - Rufio VS Mehdi](https://www.youtube.com/watch?v=) / ""
+
+1. [QuadSmash](http://elisee.itch.io/quadsmash) (Plateforme / PC)
+2. 
+
+[BONUS](https://www.youtube.com/watch?v=zlwUSncPbUA). [Joe Danger 2](https://en.wikipedia.org/wiki/Joe_Danger_2:_The_Movie) (Course arcade / XBOX 360)
+
+### 26/10/2015 [Le défi du challenge 33 - Neo VS Nico ](https://www.youtube.com/watch?v=) / ""
+
+1. [QuadSmash](http://elisee.itch.io/quadsmash) (Plateforme / PC)
+2. 
+
+[BONUS](https://www.youtube.com/watch?v=zlwUSncPbUA). [Joe Danger 2](https://en.wikipedia.org/wiki/Joe_Danger_2:_The_Movie) (Course arcade / XBOX 360)
+
+### //2015 [Le défi du challenge 34 - ](https://www.youtube.com/watch?v=) / ""
+
+1. [QuadSmash](http://elisee.itch.io/quadsmash) (Plateforme / PC)
+2. 
+
+[BONUS](https://www.youtube.com/watch?v=zlwUSncPbUA). [Joe Danger 2](https://en.wikipedia.org/wiki/Joe_Danger_2:_The_Movie) (Course arcade / XBOX 360)
+
+### //2015 [Le défi du challenge 3 - ](https://www.youtube.com/watch?v=) / ""
+
+1. [QuadSmash](http://elisee.itch.io/quadsmash) (Plateforme / PC)
+2. 
+
+[BONUS](https://www.youtube.com/watch?v=zlwUSncPbUA). [Joe Danger 2](https://en.wikipedia.org/wiki/Joe_Danger_2:_The_Movie) (Course arcade / XBOX 360)
