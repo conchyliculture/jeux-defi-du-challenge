@@ -236,37 +236,42 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=zlwUSncPbUA). [Joe Danger 2](https://en.wikipedia.org/wiki/Joe_Danger_2:_The_Movie) (Course arcade / XBOX 360)
 
-### 27/09/2015 [Le défi du challenge 31 - Dorian VS CdV](https://www.youtube.com/watch?v=) / ""
+### 27/09/2015 [Le défi du challenge 31 - Dorian VS CdV](https://www.youtube.com/watch?v=196cTFJorrM) / "Le jeu dans le jeu"
 
-1. [QuadSmash](http://elisee.itch.io/quadsmash) (Plateforme / PC)
-2. 
-
-[BONUS](https://www.youtube.com/watch?v=zlwUSncPbUA). [Joe Danger 2](https://en.wikipedia.org/wiki/Joe_Danger_2:_The_Movie) (Course arcade / XBOX 360)
-
-### 11/10/2015 [Le défi du challenge 32 - Rufio VS Mehdi](https://www.youtube.com/watch?v=) / ""
-
-1. [QuadSmash](http://elisee.itch.io/quadsmash) (Plateforme / PC)
-2. 
+1. [Final Fantasy 7](https://fr.wikipedia.org/wiki/Final_Fantasy_VII) (RPG / PC)
+2. [Resident Evil 3: Nemesis](https://fr.wikipedia.org/wiki/Resident_Evil_3:_Nemesis) (Action Aventure / PS1)
+3. [Pokémon Stadium](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Stadium) (Combat Stratégie / N64)
 
 [BONUS](https://www.youtube.com/watch?v=zlwUSncPbUA). [Joe Danger 2](https://en.wikipedia.org/wiki/Joe_Danger_2:_The_Movie) (Course arcade / XBOX 360)
 
-### 26/10/2015 [Le défi du challenge 33 - Neo VS Nico ](https://www.youtube.com/watch?v=) / ""
+### 11/10/2015 [Le défi du challenge 32 - Rufio VS Mehdi](https://www.youtube.com/watch?v=i0-SR0DmesE) / "Le Scoring"
 
-1. [QuadSmash](http://elisee.itch.io/quadsmash) (Plateforme / PC)
-2. 
+1. [Cool Boarders 3](https://en.wikipedia.org/wiki/Cool_Boarders_3) (Snowboard / PS1)
+2. [Super Star Soldier](https://en.wikipedia.org/wiki/Super_Star_Soldier) (Shoot'em'up / PS Engine)
+3. [Canabalt](http://adamatomic.com/canabalt/) (Endless Runner / PC)
 
-[BONUS](https://www.youtube.com/watch?v=zlwUSncPbUA). [Joe Danger 2](https://en.wikipedia.org/wiki/Joe_Danger_2:_The_Movie) (Course arcade / XBOX 360)
+[BONUS](https://www.youtube.com/watch?v=6KQde7K66Zk). [Sagittarius](http://gprosser.itch.io/sagittarius) (Multi gravité / PC)
 
-### //2015 [Le défi du challenge 34 - ](https://www.youtube.com/watch?v=) / ""
+### 26/10/2015 [Le défi du challenge 33 - Neo VS Nico ](https://www.youtube.com/watch?v=VHgHjt95NuI) / "Halloween"
 
-1. [QuadSmash](http://elisee.itch.io/quadsmash) (Plateforme / PC)
-2. 
+1. [Castlevania 3](https://fr.wikipedia.org/wiki/Castlevania_III:_Dracula%27s_Curse) (Plateformes / NES)
+2. [Monsters](http://ludumdare.com/compo/2015/08/24/mmmonster-is-done/) (Puzzle / PC)
+3. [Splatterhouse](https://fr.wikipedia.org/wiki/Splatterhouse) (Action / Arcade)
 
-[BONUS](https://www.youtube.com/watch?v=zlwUSncPbUA). [Joe Danger 2](https://en.wikipedia.org/wiki/Joe_Danger_2:_The_Movie) (Course arcade / XBOX 360)
+[BONUS](https://www.youtube.com/watch?v=eWu38NkAUy4). [TerrorDrome](http://terrordrome-thegame.com/) (Baston / PC)
 
-### //2015 [Le défi du challenge 3 - ](https://www.youtube.com/watch?v=) / ""
+### //2015 [Le défi du challenge 34 - Rufio VS Realmyop](https://www.youtube.com/watch?v=) / "Les reptiles"
 
-1. [QuadSmash](http://elisee.itch.io/quadsmash) (Plateforme / PC)
-2. 
+1. [Offroad velociraptor safari](https://en.wikipedia.org/wiki/Off-Road_Velociraptor_Safari) (Véhicule Combat / PC)
+2. [Snake Rattle 'n' roll](https://fr.wikipedia.org/wiki/Snake_Rattle_%27n%27_Roll) (PLateformes puzzle / NES)
+3. [Snake snaaaake]() (Serpent / PC)
+
+[BONUS](https://www.youtube.com/watch?v=QsQ2bCO-7mg). [Trench Run 2](https://trenchrun.thd.vg/en/) (Combat 1 screen / PC)
+
+### //2015 [Le défi du challenge 35 - CDV VS Nico ](https://www.youtube.com/watch?v=) / "Le premier défi"
+
+1. [Gradius V](https://fr.wikipedia.org/wiki/Gradius_V) (Shoot'em up / PS2)
+2. [Mario Kart 8](https://fr.wikipedia.org/wiki/Mario_Kart_8) (Course / Wii U)
+3. [Dr Robotnik's Mean Bean Machine](https://fr.wikipedia.org/wiki/Dr._Robotnik%27s_Mean_Bean_Machine) (Puzzle / Mega Drive)
 
 [BONUS](https://www.youtube.com/watch?v=zlwUSncPbUA). [Joe Danger 2](https://en.wikipedia.org/wiki/Joe_Danger_2:_The_Movie) (Course arcade / XBOX 360)
