@@ -260,7 +260,7 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=eWu38NkAUy4). [TerrorDrome](http://terrordrome-thegame.com/) (Baston / PC)
 
-### //2015 [Le défi du challenge 34 - Rufio VS Realmyop](https://www.youtube.com/watch?v=) / "Les reptiles"
+### 16/11/2015 [Le défi du challenge 34 - Rufio VS Realmyop](https://www.youtube.com/watch?v=) / "Les reptiles"
 
 1. [Offroad velociraptor safari](https://en.wikipedia.org/wiki/Off-Road_Velociraptor_Safari) (Véhicule Combat / PC)
 2. [Snake Rattle 'n' roll](https://fr.wikipedia.org/wiki/Snake_Rattle_%27n%27_Roll) (PLateformes puzzle / NES)
@@ -268,7 +268,7 @@ BONUS 2. [Worms armageddon Uncut](https://fr.wikipedia.org/wiki/Worms_Armageddon
 
 [BONUS](https://www.youtube.com/watch?v=QsQ2bCO-7mg). [Trench Run 2](https://trenchrun.thd.vg/en/) (Combat 1 screen / PC)
 
-### //2015 [Le défi du challenge 35 - CDV VS Nico ](https://www.youtube.com/watch?v=) / "Le premier défi"
+### 23/11/2015 [Le défi du challenge 35 - CDV VS Nico ](https://www.youtube.com/watch?v=) / "Le premier défi"
 
 1. [Gradius V](https://fr.wikipedia.org/wiki/Gradius_V) (Shoot'em up / PS2)
 2. [Mario Kart 8](https://fr.wikipedia.org/wiki/Mario_Kart_8) (Course / Wii U)
